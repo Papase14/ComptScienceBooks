@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ComptScienceBooks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e6da87a570e0f22a594fabaa40c9cfc683627e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e808cb6de186365d20113887bf590bb65f975399")]
 [assembly: System.Reflection.AssemblyProductAttribute("ComptScienceBooks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ComptScienceBooks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
