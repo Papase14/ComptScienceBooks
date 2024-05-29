@@ -4582,11 +4582,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tshupanemorake/Desktop/StudentFiles(42)/2018754206_Project11/ComptScienceBooks/ComptScienceBooks/ComptScienceBooks.csproj",
+      "projectUniqueName": "/Users/tshupanemorake/Documents/GitHub/ComptScienceBooks/ComptScienceBooks.csproj",
       "projectName": "ComptScienceBooks",
-      "projectPath": "/Users/tshupanemorake/Desktop/StudentFiles(42)/2018754206_Project11/ComptScienceBooks/ComptScienceBooks/ComptScienceBooks.csproj",
+      "projectPath": "/Users/tshupanemorake/Documents/GitHub/ComptScienceBooks/ComptScienceBooks.csproj",
       "packagesPath": "/Users/tshupanemorake/.nuget/packages/",
-      "outputPath": "/Users/tshupanemorake/Desktop/StudentFiles(42)/2018754206_Project11/ComptScienceBooks/ComptScienceBooks/obj/",
+      "outputPath": "/Users/tshupanemorake/Documents/GitHub/ComptScienceBooks/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tshupanemorake/.nuget/NuGet/NuGet.Config"

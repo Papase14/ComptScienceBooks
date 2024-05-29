@@ -2201,3 +2201,15 @@ C:/Users/marvi/OneDrive/Desktop/CSIQ3734/StudentFiles(42)/2018754206_Project11/C
 /Users/tshupanemorake/Desktop/StudentFiles(42)/2018754206_Project11/ComptScienceBooks/ComptScienceBooks/obj/Debug/net8.0/ComptScienceBooks.pdb
 /Users/tshupanemorake/Desktop/StudentFiles(42)/2018754206_Project11/ComptScienceBooks/ComptScienceBooks/obj/Debug/net8.0/ComptScienceBooks.genruntimeconfig.cache
 /Users/tshupanemorake/Desktop/StudentFiles(42)/2018754206_Project11/ComptScienceBooks/ComptScienceBooks/obj/Debug/net8.0/ref/ComptScienceBooks.dll
+/Users/tshupanemorake/Documents/GitHub/ComptScienceBooks/obj/Debug/net8.0/ComptScienceBooks.csproj.AssemblyReference.cache
+/Users/tshupanemorake/Documents/GitHub/ComptScienceBooks/obj/Debug/net8.0/ComptScienceBooks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tshupanemorake/Documents/GitHub/ComptScienceBooks/obj/Debug/net8.0/ComptScienceBooks.AssemblyInfoInputs.cache
+/Users/tshupanemorake/Documents/GitHub/ComptScienceBooks/obj/Debug/net8.0/ComptScienceBooks.AssemblyInfo.cs
+/Users/tshupanemorake/Documents/GitHub/ComptScienceBooks/obj/Debug/net8.0/ComptScienceBooks.csproj.CoreCompileInputs.cache
+/Users/tshupanemorake/Documents/GitHub/ComptScienceBooks/obj/Debug/net8.0/ComptScienceBooks.MvcApplicationPartsAssemblyInfo.cache
+/Users/tshupanemorake/Documents/GitHub/ComptScienceBooks/obj/Debug/net8.0/ComptScienceBooks.RazorAssemblyInfo.cache
+/Users/tshupanemorake/Documents/GitHub/ComptScienceBooks/obj/Debug/net8.0/ComptScienceBooks.RazorAssemblyInfo.cs
+/Users/tshupanemorake/Documents/GitHub/ComptScienceBooks/obj/Debug/net8.0/ComptScienceBooks.sourcelink.json
+/Users/tshupanemorake/Documents/GitHub/ComptScienceBooks/obj/Debug/net8.0/ComptScienceBooks.dll
+/Users/tshupanemorake/Documents/GitHub/ComptScienceBooks/obj/Debug/net8.0/refint/ComptScienceBooks.dll
+/Users/tshupanemorake/Documents/GitHub/ComptScienceBooks/obj/Debug/net8.0/ComptScienceBooks.pdb
