@@ -9,32 +9,36 @@ namespace ComptScienceBooks.Controllers
     public class CategoryController : Controller
     {
         private readonly IRepositoryWrapper _repositoryWrapper;
-      
+
         public CategoryController(IRepositoryWrapper repositoryWrapper)
         {
             _repositoryWrapper = repositoryWrapper;
-        } 
-        
-        public IActionResult Artificial()
+        }
+
+        public IActionResult HumanComputer()
         {
-            return View();
+            var category = _repositoryWrapper.Category.GetCategoryWithBooks(4);
+            return View(category);
         }
         public IActionResult Machine()
         {
-            var category = _repositoryWrapper.Category.GetCategoryWithBooks(5); // Assume 5 is the ID for Machine category
+            var category = _repositoryWrapper.Category.GetCategoryWithBooks(5);
             return View(category);
         }
         public IActionResult Programming()
         {
-            return View();
+            var category = _repositoryWrapper.Category.GetCategoryWithBooks(3);
+            return View(category);
         }
         public IActionResult Security()
         {
-            return View();
+            var category = _repositoryWrapper.Category.GetCategoryWithBooks(1);
+            return View(category);
         }
         public IActionResult Software()
         {
-            return View();
+            var category = _repositoryWrapper.Category.GetCategoryWithBooks(2);
+            return View(category);
         }
     }
 }

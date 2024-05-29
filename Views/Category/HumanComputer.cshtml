@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Human Computer Interactioon page";
+}
+<h2 class="text-center shadow-lg">Human-Computer Interaction</h2>
+<div>
+    <h3>User Interface Design</h3>
+    <div>
+        User Interface Design (UI) is the process of designing interfaces for software, websites, and devices with the focus on enhancing user experience and usability. It encompasses elements such as visual design, interaction design, and information architecture.
+    </div>
+    <br />
+    <h3>Interaction Paradigms</h3>
+    <div>
+        Interaction Paradigms define the ways in which users interact with computers. Common paradigms include command-line interfaces (CLI), graphical user interfaces (GUI), touch interfaces, and voice interfaces. Each paradigm has its strengths and weaknesses, influencing user engagement and efficiency.
+    </div>
+    <br />
+    <h3>Texbooks</h3>
+    <div>
+        <ul class="list-group">
+            @foreach (var book in Model.Books)
+            {
+                <li class="list-group-item">@book.BookName by @book.BookAuthor</li>
+            }
+        </ul>
+    </div>
+    <br />
+</div> 

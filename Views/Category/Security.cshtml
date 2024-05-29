@@ -17,9 +17,10 @@
     <h3>Texbooks</h3>
     <div>
         <ul class="list-group">
-            <li class="list-group-item">Social Engineering: The Science of Human Hacking</li>
-            <li class="list-group-item">Ghost In The Wires: My Adventures as the World's Most Wanted Hacker</li>
-            <li class="list-group-item">Hacking: The Art of Exploitation, 2nd Edition</li>
+            @foreach (var book in Model.Books)
+            {
+                <li class="list-group-item">@book.BookName by @book.BookAuthor</li>
+            }
         </ul>
     </div>
     <br />

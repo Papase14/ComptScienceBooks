@@ -16,9 +16,10 @@
     <h3>Texbooks</h3>
     <div>
         <ul class="list-group">
-            <li class="list-group-item">Patterns of Enterprise Application Architecture</li>
-            <li class="list-group-item">Programming Pearls</li>
-            <li class="list-group-item">Test-Driven Development</li>
+            @foreach (var book in Model.Books)
+            {
+                <li class="list-group-item">@book.BookName by @book.BookAuthor</li>
+            }
         </ul>
     </div>
     <br />
