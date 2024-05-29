@@ -12,7 +12,7 @@ namespace ComptScienceBooks.Data
         {
             return _bookDbContext.Categories
                                  .Include(c => c.Books)
-                                 .FirstOrDefault(c => c.Id == categoryId);
+                                 .FirstOrDefault(c => c.CategoryId == categoryId);
         }
     }
 }

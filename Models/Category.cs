@@ -7,6 +7,6 @@ namespace ComptScienceBooks.Models
     {
         public int CategoryId { get; set; }
         public string CategoryName { get; set; }
-        public List<Book> Book { get; set; }
+        public List<Book> Books { get; set; }
     }
 }
