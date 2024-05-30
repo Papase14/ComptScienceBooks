@@ -37,11 +37,11 @@ Once the application is running, you can navigate to different categories using 
 
 ## Contributors
 
-- **John Doe**
+- **Tshupane Morake**
   - GitHub: [Tshupane_Morake](https://github.com/Papase14)
   - Role: Developer
 
-- **Jane Smith**
+- **Ntuthuko Zimu**
   - GitHub: [Ntuthuko_Zimu](https://github.com/NtuthukoLu)
   - Role: Developer
 
